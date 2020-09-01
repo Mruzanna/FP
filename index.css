@@ -1,0 +1,28 @@
+h1, h2{  
+    color:#428bca;
+    text-align: center;
+   ;
+}
+div.container{
+    width:270px;
+    height: 70px;
+    position: absolute;
+    margin-left: 550px;
+}
+div.image {position: absolute;
+    top:30px;
+    left:300px;
+      }
+ 
+div.text{
+    position: absolute;
+    top:350px;
+    left:30px;
+    color:black;
+    font-size: medium;
+  }
+ 
+
+  
+  
+  
